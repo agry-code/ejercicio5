@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class JuegosMatematicos {
 
 	public static void main(String[] args) {
+		System.out.println("Raúl estuvo aquí.");
 		//Parte 1
 		
 		Scanner sc= new Scanner(System.in);
