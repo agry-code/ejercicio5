@@ -7,6 +7,7 @@ public class algunosJuegosMatemáticos {
 	public static void main(String[] args) {
 		System.out.println("Pablo estuvo aqui");
 		System.out.println("Adry estuvo aqui");
+		System.out.println("Pedro estuvo aqui");
 		
 		          // 1
 	Scanner sc = new Scanner(System.in);
